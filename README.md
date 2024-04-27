@@ -1,0 +1,1 @@
+This is my first Git repository created through the command line. The things I do here are just to learn how to use Git.
